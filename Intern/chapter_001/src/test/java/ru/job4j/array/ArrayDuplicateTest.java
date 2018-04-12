@@ -12,16 +12,16 @@ import static org.junit.Assert.assertThat;
  * @version $Id$
  * @since 0.1
  */
-  public class ArrayDuplicateTest {
-	/**
+public class ArrayDuplicateTest {
+    /**
      * Test Array Duplicate.
      */
     @Test
     public void whenRemoveDuplicatesThenArrayWithoutDuplicate() {
-		ArrayDuplicate ad = new ArrayDuplicate();
-		String[] values = {"Привет", "Мир", "Привет", "Супер", "Мир"};
-		String[] resultArray = ad.remove(values);
-		String[] expectedArray = {"Привет", "Мир", "Супер"};
-		assertThat(resultArray, is(expectedArray));
+        ArrayDuplicate ad = new ArrayDuplicate();
+        String[] values = {"Привет", "Мир", "Привет", "Супер", "Мир"};
+        String[] resultArray = ad.remove(values);
+        String[] expectedArray = {"Привет", "Мир", "Супер"};
+        assertThat(resultArray, is(expectedArray));
     }
 }
