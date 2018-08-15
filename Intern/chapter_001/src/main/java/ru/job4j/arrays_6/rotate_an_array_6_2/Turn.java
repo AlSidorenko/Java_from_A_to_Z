@@ -1,4 +1,4 @@
-package ru.job4j.array;
+package ru.job4j.arrays_6.rotate_an_array_6_2;
 /**
 * Package for Array.
 *
@@ -8,9 +8,9 @@ package ru.job4j.array;
 */
 public class Turn {
 	/**
-	 *Turn - mirror array.
-	 *@param array - source array.
-	 *@return - mirror array.
+	 *Turn - mirror arrays_6.
+	 *@param array - source arrays_6.
+	 *@return - mirror arrays_6.
 	 */
     public int[] back(int[] array) {
         int k;

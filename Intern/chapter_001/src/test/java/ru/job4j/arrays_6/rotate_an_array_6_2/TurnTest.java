@@ -1,4 +1,4 @@
-package ru.job4j.array;
+package ru.job4j.arrays_6.rotate_an_array_6_2;
 
 import org.junit.Test;
 
