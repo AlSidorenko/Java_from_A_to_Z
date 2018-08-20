@@ -1,4 +1,4 @@
-package ru.job4j.array;
+package ru.job4j.arrays_6.array_sorting_6_5;
 
 import org.junit.Test;
 

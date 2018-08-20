@@ -1,4 +1,4 @@
-package ru.job4j.array;
+package ru.job4j.arrays_6.array_sorting_6_5;
 /**
 * Package for Array.
 *
@@ -8,9 +8,9 @@ package ru.job4j.array;
 */
 public class BubbleSort {
 	/**
-	 *Sort - array.
-	 *@param array - source array.
-	 *@return - sort array.
+	 *Sort - arrays_6.
+	 *@param array - source arrays_6.
+	 *@return - sort arrays_6.
 	 */
     public int[] sort(int[] array) {
         for (int i = 1; i < array.length; i++) {
