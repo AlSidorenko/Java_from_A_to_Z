@@ -1,4 +1,4 @@
-package ru.job4j.array;
+package ru.job4j.arrays_6.remove_duplicates_6_8;
 
 import org.junit.Test;
 

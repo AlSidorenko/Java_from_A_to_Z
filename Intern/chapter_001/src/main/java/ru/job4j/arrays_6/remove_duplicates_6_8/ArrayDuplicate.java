@@ -1,4 +1,4 @@
-package ru.job4j.array;
+package ru.job4j.arrays_6.remove_duplicates_6_8;
 
 import java.util.Arrays;
 
@@ -11,9 +11,9 @@ import java.util.Arrays;
 */
 public class ArrayDuplicate {
 	/**
-	 *remove - remove elements of array.
-	 *@param array - source array.
-	 *@return - array.
+	 *remove - remove elements of arrays_6.
+	 *@param array - source arrays_6.
+	 *@return - arrays_6.
 	 */
     public String[] remove(String[] array) {
         int end = array.length;
