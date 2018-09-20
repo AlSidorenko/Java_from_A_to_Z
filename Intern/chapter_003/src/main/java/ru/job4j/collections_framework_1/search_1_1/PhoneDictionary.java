@@ -19,7 +19,7 @@ public class PhoneDictionary {
 
     /**
      * Method adding item.
-     * @param person - list of person.
+     * @param person - list_1_3 of person.
      */
     public void add(Person person) {
         this.persons.add(person);

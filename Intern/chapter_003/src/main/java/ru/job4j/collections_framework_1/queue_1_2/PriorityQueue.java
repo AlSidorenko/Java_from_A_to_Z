@@ -12,7 +12,7 @@ import java.util.LinkedList;
 public class PriorityQueue {
 
     /**
-     * Linked list.
+     * Linked list_1_3.
      */
     private LinkedList<Task> tasks = new LinkedList<>();
 
