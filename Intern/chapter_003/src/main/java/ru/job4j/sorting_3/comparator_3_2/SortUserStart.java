@@ -1,4 +1,4 @@
-package ru.job4j.sorting_3.comparator;
+package ru.job4j.sorting_3.comparator_3_2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
