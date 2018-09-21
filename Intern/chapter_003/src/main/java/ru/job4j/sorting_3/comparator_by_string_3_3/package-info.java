@@ -5,4 +5,4 @@
  * @version $Id$.
  * @since 0.1.
  */
-package ru.job4j.sorting_3.comparatorbystring;
+package ru.job4j.sorting_3.comparator_by_string_3_3;

@@ -1,4 +1,4 @@
-package ru.job4j.sorting_3.comparatorbystring;
+package ru.job4j.sorting_3.comparator_by_string_3_3;
 
 import java.util.Comparator;
 
