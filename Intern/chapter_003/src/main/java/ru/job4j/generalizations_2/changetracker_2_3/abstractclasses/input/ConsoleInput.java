@@ -1,6 +1,6 @@
 package ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.input;
 
-import ru.job4j.changetracker.abstractclasses.exceptions.MenuOutException;
+import ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.exceptions.MenuOutException;
 
 import java.util.List;
 import java.util.Scanner;

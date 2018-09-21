@@ -1,9 +1,9 @@
 package ru.job4j.generalizations_2.changetracker_2_3.abstractclasses;
 
-import ru.job4j.changetracker.abstractclasses.behavior.MenuTracker;
-import ru.job4j.changetracker.abstractclasses.input.Input;
-import ru.job4j.changetracker.abstractclasses.input.ValidateInput;
-import ru.job4j.changetracker.abstractclasses.models.Tracker;
+import ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.behavior.MenuTracker;
+import ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.input.Input;
+import ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.input.ValidateInput;
+import ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.models.Tracker;
 
 /**
  * Created on 14.11.2017.

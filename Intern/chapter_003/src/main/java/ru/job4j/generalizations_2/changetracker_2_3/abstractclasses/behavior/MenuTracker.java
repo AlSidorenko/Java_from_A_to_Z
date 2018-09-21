@@ -1,9 +1,9 @@
 package ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.behavior;
 
-import ru.job4j.changetracker.abstractclasses.input.Input;
-import ru.job4j.changetracker.abstractclasses.models.Item;
-import ru.job4j.changetracker.abstractclasses.models.Task;
-import ru.job4j.changetracker.abstractclasses.models.Tracker;
+import ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.input.Input;
+import ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.models.Item;
+import ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.models.Task;
+import ru.job4j.generalizations_2.changetracker_2_3.abstractclasses.models.Tracker;
 
 import java.util.ArrayList;
 import java.util.Arrays;
