@@ -17,7 +17,7 @@ import static org.hamcrest.core.Is.is;
 public class ConvertList2ArrayTest {
 
     /**
-     * Checking the conversion of the list_1_3 into a two-dimensional array.
+     * Checking the conversion_2_1 of the list_1_3 into a two-dimensional array.
      */
     @Test
     public void when7ElementsThen9() {

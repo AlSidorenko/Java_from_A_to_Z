@@ -18,7 +18,7 @@ import static org.junit.Assert.assertThat;
 public class ConvertMatrix2ListTest {
 
     /**
-     * Verify the conversion of a two-dimensional array to a list_1_3.
+     * Verify the conversion_2_1 of a two-dimensional array to a list_1_3.
      */
     @Test
     public void when2on2ArrayThenList4() {
@@ -35,7 +35,7 @@ public class ConvertMatrix2ListTest {
     }
 
     /**
-     * Verify the conversion of a two-dimensional array to a list_1_3.
+     * Verify the conversion_2_1 of a two-dimensional array to a list_1_3.
      */
     @Test
     public void when2on3ArrayThenList6() {
@@ -52,7 +52,7 @@ public class ConvertMatrix2ListTest {
     }
 
     /**
-     * Verify the conversion of a two-dimensional array to a list_1_3.
+     * Verify the conversion_2_1 of a two-dimensional array to a list_1_3.
      */
     @Test
     public void when3on3ArrayThenList9() {
